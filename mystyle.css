@@ -1,0 +1,15 @@
+body{
+
+    background-image: url("backdrop.jpg"); 
+    font-size: 20px;
+}
+
+h1{
+    color:right;
+}
+
+h2{
+    color: rgb(160, 118, 118);
+}
+  
+/*Navigation bar *
